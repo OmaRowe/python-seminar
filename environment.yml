@@ -1,10 +1,10 @@
-name: astrods
+name:*astrods
 
 channels:
-- conda-forge
+-*conda-forge
 
 dependencies:
-- python=3.9.*
+-*python=3.9.*
 
 # A linux desktop environment
 - websockify
@@ -99,4 +99,4 @@ dependencies:
   - flake8
   - nb_black
   - pycodestyle_magic
-  - twine
+  - twine 
